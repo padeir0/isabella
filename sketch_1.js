@@ -1,4 +1,4 @@
-let targetDate = new Date("2025-09-08T14:00:00");
+let targetDate = new Date("2025-09-08T11:00:00");
 let buoyancy = 0.0003;
 let turbulence = 0.001;
 let maxHeartSize = 60;
