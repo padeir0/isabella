@@ -12,6 +12,7 @@ function setup() {
   frameRate(5);
   createCanvas(windowWidth, windowHeight);
   noStroke();
+  background(255, 192, 192);
 }
 
 function draw() {
